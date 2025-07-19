@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blanchedalmond;
+    color:black
+
+}
+section{
+    width: 60%;
+    margin: auto;
+}
+section section{
+    width: 100%;
+}
+ul{
+    list-style-type:none;
+    padding-left: 0%;
+    margin: auto;
+}
+
+corpo{
+    max-width: 60%;
+    margin:auto;
+}
+.principal{
+    background-color: gray;
+}
+.principal a{
+    list-style-type: none;
+    color:black;
+}
+.principal li{
+    display:inline-block;
+    line-height: auto;
+    margin: 0 50px;
+}
